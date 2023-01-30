@@ -9,8 +9,8 @@ It is a private chat between two users (so if you want to chat with another pers
 Install with git clone
 
 ```bash
-  git clone (URL)
-  cd chat
+  git clone [(URL)](https://github.com/lightswisp/assymetric_chat.git)
+  cd assymetric_chat
   ruby server.rb  -> to start the server
   ruby client.rb  -> to connect
 ```
